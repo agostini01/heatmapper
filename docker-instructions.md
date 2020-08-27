@@ -28,8 +28,7 @@ In a web browser goto:
 
 # Known issues
 
-- xlsx support is currently disabled
-- In Experession "Upload File" does not work, but you can upload a single file 
-using the "Upload Multiple Files" option
-- The webserver will as root, be careful
+-  xlsx support is currently disabled
+-  In Expression "Upload File" does not work, but you can upload a single file using the "Upload Multiple Files" option
+-  The web server will run as root, be careful
 
